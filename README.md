@@ -26,6 +26,6 @@ Dont forgot update {structures.c} befor lunch [its anti GIF file]
 
 
 ---------------------------------------------------------------------------------
-channel : @SEC_TM
+channel : https://telegram.me/SEC_TM
 
-developer : @AMIR_BLACK_HAT
+developer : https://telegram.me/AMIR_BLACK_HAT
